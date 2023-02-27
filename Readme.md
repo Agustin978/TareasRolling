@@ -11,3 +11,5 @@ En la rama ejercicio 3 se encuentra el desarrollo de la suma entre los enteros 3
 EN la rama ejerciico 4 se encuentra el desarrollo de una ventana emergente para ingresar un nombre y luego ser saludado
 
 En la rama ejercicio 5 se encuentra el desarrollo de la suma de dos numeros ingresados por el usuario usando prompt
+
+En la rama ejercicio 6 se encuentra el desarrollo de el pedidio de dos numeros y se determina cual es el mayor
