@@ -5,3 +5,5 @@ En la rama main se encuentra la pagina de panaderia desarrollada en clases duran
 En la rama Ejercicio 1 se encuentra desarrollado un alert para una pagina web
 
 En la rama Ejercicio 2 se encuentra el desarrollo del mostrado de texto con document.write
+
+En la rama ejercicio 3 se encuentra el desarrollo de la suma entre los enteros 3 + 5
