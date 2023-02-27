@@ -21,3 +21,5 @@ En la rama ejercicio 8 se encuentra el desarrollo de el pedido de un numero y de
 En la rama ejercicio 9 se encuentra el desarrollo de el pedido al usuario de una frase y luego el programa mostrara las vocales que se encuentran en la frase.
 
 En la rama ejercicio 10 se encuentra el desarrollo de el pedido al usuario de un numero y luego se determina si el mismo es divisible en 2, 3, 5 o 7.
+
+En la rama ejercicio 10 se encuentra el desarrollo de el pedido al usuario de un numero y luego se determina si el mismo es divisible en 2, 3, 5 o 7 y nos retorna en cual de ellos es divisible el numero ingresado.
