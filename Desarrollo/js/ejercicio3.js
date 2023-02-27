@@ -1,1 +1,0 @@
-document.write("El resultado de sumar 3 + 5 es igual a: ", (3+5));
