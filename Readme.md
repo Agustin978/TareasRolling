@@ -15,3 +15,5 @@ En la rama ejercicio 5 se encuentra el desarrollo de la suma de dos numeros ingr
 En la rama ejercicio 6 se encuentra el desarrollo de el pedidio de dos numeros y se determina cual es el mayor.
 
 En la rama ejercicio 7 se encuentra el desarrollo de el pedido de tres numeros y se determina cual es el mayor de todos.
+
+En la rama ejercicio 8 se encuentra el desarrollo de el pedido de un numero y determina si el mismo es par o impar
